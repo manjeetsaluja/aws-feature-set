@@ -28,3 +28,13 @@
 ## [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk)
 -  AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS
 -  [Documentation](https://aws.amazon.com/documentation/elasticbeanstalk)
+
+## [Simple Storage Service](https://aws.amazon.com/s3)
+-  AWS Simple Storage Service is used to store and retrieve any amount of data from anywhere on the web. It can be used alone or in conjunction with other AWS services. 
+-  [Documentation](https://aws.amazon.com/documentation/s3)
+
+## [Virtual Power Cloud](https://aws.amazon.com/vpc)
+- AWS Virtual Power Cloud service is the networking layer for Amazon EC2 and it allows you to create your own private virtual network within the cloud.
+-  [Documentation](https://aws.amazon.com/vpc)
+
+
